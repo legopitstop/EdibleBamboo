@@ -1,9 +1,12 @@
 {
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "tag": "forge:bamboo"
-  },
-  "result": "ediblebamboo:dried_bamboo",
-  "experience": 0.15,
-  "cookingtime": 200
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ediblebamboo:dried_bamboo_block"
+    }
+  ],
+  "result": {
+    "item": "ediblebamboo:dried_bamboo",
+    "count": 9
+  }
 }

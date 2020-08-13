@@ -1,7 +1,7 @@
 modLoader="javafml" #mandatory
 loaderVersion="[32,)" #mandatory
 license="Legopitstop Common License"
-issueTrackerURL="http://my.issue.tracker/"
+issueTrackerURL="https://github.com/legopitstop/EdibleBamboo/issues"
 
 [[mods]]
 modId="ediblebamboo" #mandatory
@@ -10,12 +10,12 @@ version="1.0.1" #mandatory
 
 displayName="Edible Bamboo" #mandatory
 updateJSONURL="https://raw.githubusercontent.com/legopitstop/ModUpdates/master/EdibleBamboo/update.json"
-displayURL="http://example.com/"
-logoFile="ediblebamboo.png"
+displayURL="https://www.curseforge.com/members/legopitstop/projects"
+logoFile="ediblebamboo_icon.png"
 credits=""
 authors="Legopitstop"
 description='''
-Have you ever wanted to eat bamboo like pandas? Well with this mod you can! you can even smoke it to make it more yummy!
+Have you ever wanted to eat bamboo like pandas? Well with this mod you can! you can even cook it to make it more yummy!
 '''
 
 [[dependencies.ediblebamboo]]
