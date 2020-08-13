@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ediblebamboo:dried_bamboo"
+    },
+    {
+      "item": "ediblebamboo:dried_bamboo"
+    },
+    {
+      "item": "ediblebamboo:dried_bamboo"
+    },
+    {
+      "item": "ediblebamboo:dried_bamboo"
+    },
+    {
+      "item": "ediblebamboo:dried_bamboo"
+    },
+    {
+      "item": "ediblebamboo:dried_bamboo"
+    },
+    {
+      "item": "ediblebamboo:dried_bamboo"
+    },
+    {
+      "item": "ediblebamboo:dried_bamboo"
+    },
+    {
+      "item": "ediblebamboo:dried_bamboo"
+    }
+  ],
+  "result": {
+    "item": "ediblebamboo:dried_bamboo_block"
+  }
+}
